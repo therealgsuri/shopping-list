@@ -5,3 +5,8 @@
 - beef 
 - ground turkey
 - soba
+- soy sauce
+- buffalo sauce 
+- hot sauce 
+- green salsa 
+- pasta sauce
