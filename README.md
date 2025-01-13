@@ -1,0 +1,7 @@
+- Chicken
+- broccoli
+- rice
+- sweet potatos
+- beef 
+- ground turkey
+- soba
